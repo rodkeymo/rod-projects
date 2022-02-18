@@ -18,12 +18,7 @@ import React from "react";
                 <h2 className="text-2xl text-slate-100 font-light text-center">
                     Upload Music
                 </h2>
-                <div className="items-center">
-                <button className="bg-blue-300 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">
-                    Upload Music
-                </button>
-                </div>
-                            </div>
+              </div>
         </div>
 
     );
